@@ -1,3 +1,3 @@
 # startupsonthehill
-Repository for Brown EP's Startupsonthehill.com, a collection of resources for startup founders and entrepreneurs from Brown and RISD.
+Repository for Brown EP's Startupsonthehill.com, a collection of resources for startup founders and entrepreneurs from Brown and RISD. <br/>
 Project by Michael Donoso.
